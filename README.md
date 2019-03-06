@@ -1,2 +1,3 @@
 # hub
-Node JS back end for Profile Matching
+Profile Matching Server
+NodeJS backend
